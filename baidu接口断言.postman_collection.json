@@ -1,0 +1,26 @@
+{
+	"info": {
+		"_postman_id": "17b7f798-1de7-4f04-a7e2-242e4770e2b8",
+		"name": "baidu接口断言",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "www.baidu.com",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "www.baidu.com",
+					"host": [
+						"www",
+						"baidu",
+						"com"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
